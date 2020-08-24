@@ -173,17 +173,6 @@ MQ2 gas sensor
     digital output pin will be 0V.
 
 
-## OUTPUT:
-
-```
-Controlling light through BLYNK app Controlling fan through BLYNK app
-```
-```
-Controlling light through Google
-Assistant
-```
-```
-Controlling fan through Google Assistant
-```
+![Flowchart]https://github.com/smita181298/IOT_HomeAutomation/blob/master/flowchart.PNG?raw=true
 
 
