@@ -173,6 +173,6 @@ MQ2 gas sensor
     digital output pin will be 0V.
 
 
-![flowchart]https://github.com/smita181298/IOT_HomeAutomation/blob/master/flowchart.PNG?raw=true
+![](flowchart.PNG)
 
 
